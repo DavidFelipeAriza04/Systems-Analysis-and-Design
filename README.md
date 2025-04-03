@@ -1,3 +1,3 @@
 # Systems-Analysis-and-Design
-##integrantes
-*Oscar Manuel Contreras Gacha
+## integrantes
+*  Oscar Manuel Contreras Gacha
