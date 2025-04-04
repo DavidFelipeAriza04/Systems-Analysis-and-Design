@@ -1,4 +1,4 @@
 # Systems-Analysis-and-Design
-## integrantes
+## Team Members
 *  Oscar Manuel Contreras Gacha
 *  Julián David Méndez Lara
