@@ -5,6 +5,4 @@ Report link: [NCAA_Basketball_Tournament___Systems_Analysis.pdf](https://github.
 
 Diagram: [Workshop1Diagram.svg](https://github.com/DavidFelipeAriza04/Systems-Analysis-and-Design/blob/main/Workshops/Workshop%201/Workshop1Diagram.svg)
 
- ![Diagram](https://github.com/DavidFelipeAriza04/Systems-Analysis-and-Design/blob/main/Workshops/Worksh     op%201/Workshop1Diagram.svg)
-
  <img src="https://raw.githubusercontent.com/DavidFelipeAriza04/Systems-Analysis-and-Design/2776300ae44b51328dcf4e2ef1e07503149e761f/Workshops/Workshop%201/Workshop1Diagram.svg" width="400" />
