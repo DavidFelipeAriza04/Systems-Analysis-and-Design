@@ -13,3 +13,8 @@ In this place are uploaded the workshops and projects developed by the group
     * Engineering Principles
     * Chaos and Sensitivity Measures
     * Documentation & Clarity
+
+## Workshop 3
+    * Data-driven Simulation
+    * System Workflow Validation
+    * Complexity and Chaos Explorations
