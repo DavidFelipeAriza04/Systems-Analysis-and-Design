@@ -14,4 +14,4 @@ This project implements a modular simulation pipeline to predict NCAA tournament
 Four simulations were tested using different combinations of variables. The best results were achieved when both team statistics and seed information were used, confirming their combined predictive power.
 
 For a detailed description of the system simulation, please refer to the [System Simulation Document]
-()
+(https://github.com/DavidFelipeAriza04/Systems-Analysis-and-Design/blob/5a8b0d457519b5cb0f2d69d9aa2a66a773bd1107/Workshops/Workshop_3_simulation/NCAA_Basketball_Tournament_System_Simulation.pdf)
