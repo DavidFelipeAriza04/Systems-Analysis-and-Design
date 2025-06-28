@@ -12,3 +12,6 @@ This project implements a modular simulation pipeline to predict NCAA tournament
 5. *Output Writer:* Formats predictions to match Kaggle’s submission requirements, with support for expert overrides.
 
 Four simulations were tested using different combinations of variables. The best results were achieved when both team statistics and seed information were used, confirming their combined predictive power.
+
+For a detailed description of the system simulation, please refer to the [System Simulation Document]
+()
